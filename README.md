@@ -11,4 +11,3 @@ Contains:
 3.) Details of CNN construction - Parameter and structure details of the various version of GoogleNet employed
 
 
-4.) Details of proteogenomic data pre-processing - Description of the data preprocessing and normalization steps for both transcriptomics and proteomics data
