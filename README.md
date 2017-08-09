@@ -1,4 +1,5 @@
 # PSB_2018
+# Contact - Arunima Srivastava (srivatava.1@osu.edu)
 Contains:
 
 
@@ -9,5 +10,13 @@ Contains:
 
 
 3.) Details of CNN construction - Parameter and structure details of the various version of GoogleNet employed
+
+####################
+
+Github repositories for implementation of histology image tiling and GoogLeNet housed here:
+https://github.com/chaitanya2334/openslide-svs-tiler
+
+https://github.com/chaitanya2334/hist-cnn
+
 
 
